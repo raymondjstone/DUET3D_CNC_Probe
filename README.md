@@ -7,7 +7,8 @@ you also need to position the probe bit correctly before starting if you don't y
 and no responsibility will be taken for any damage that may result.
 
 
-I use out4 for my probe since it's wired like an endstop.
+I use out4 for my probe since it's wired like an endstop. NOTE: This is setting up probe 0, the
+type is 5 but the probe number not being specified means it is 0.
 
 My config.g section
 
