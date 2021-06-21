@@ -1,0 +1,8 @@
+{
+    "id": "CNCProbe",
+    "name": "CNC Probe",
+    "author": "Raymond Stone",
+    "version": "0.6.20",
+    "license": "LGPL-3.0-or-later",
+    "dwcVersion": "3.3"
+  }
